@@ -12,3 +12,7 @@ Today, I learnt about the introduction of arrow function in ES6. Arrow functions
 ## Day 3 (10 March 2022)
 Today, I learnt about **this** keyword and how the value of this depends on the context in which it is used. I also learnt the reason why **Object Composition** is being used in **React** rather than **Inheritance**.
 ![image](https://user-images.githubusercontent.com/71809485/157556329-1d7a510c-bb28-433b-b4a5-b2a595058d73.png)
+
+## Day 4 (14 March 2022)
+I learnt about the two major libraries needed for React : React and ReactDOM. Data flow happens only in one direction : from Parent to Child and the data instance is called Props. 
+![image](https://user-images.githubusercontent.com/71809485/158086283-ccff7d10-9d69-4a38-a547-dbcbdfc3ab64.png)
